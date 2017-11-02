@@ -1,1 +1,1 @@
-# iCome_MacPrj
+# iCome_MacProj
